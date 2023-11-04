@@ -1,5 +1,8 @@
 # MINT_Quantization
 
+## TODO:
+I will clean up the codes soon... 
+
 ## Citing
 If you find MINT is useful for your research, please use the following bibtex to cite us,
 
